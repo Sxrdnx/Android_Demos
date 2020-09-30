@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Prueva1</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="title">"Abr dijo el ciego"</string>
+    <string name="large_text">
+        The last verse of Purgatorio 26, referring to Arnaut Daniel, is “Poi sascose nel foco che li affina” (Then he hid himself in the
+        fire that refines them )
+        In Purgtorio 27 we learn that the refining fire of the seventh
+        terrace must be confronted by every soul that passes beyond the terraces of purgatory
+        In other words, the fire of the seventh terrace is not only the designated
+        punishment of the terrace
+        of lust it burns away and “refines” any remaining inclination to vice in all
+        souls as they complete purgation
+        Dantes fear of the fire is such that Virgilio needs to remind him of all the
+        fear-inducing experiences that they have shared in the course of their
+        time together and all the times that Virgilio took care of him and kept
+        him safe. This is quite a personal moment between the pilgrim and his
+        guide, in which they look
+        back over their long and companionable journey The moment that Virgilio
+        singles out as most emblematic of the pilgrims fear is their flight on the
+        back of the monster Geryon (Inferno 17)
+        A summer river being crossed
+        Now I find particularly fascinating in Virgilios words his emphasis on time and memory “Ricorditi, ricorditi!”
+        (Remember remember Time and memory are the currencies of human affect and love affect accrues
+        over time and is preserved in memory
+        how pleasing
+        with sandals in my hands!
+
+        Light of the moon
+        Moves west, flowers shadows
+        Creep eastward
+
+        Everything I touch
+        with tenderness, alas,
+        pricks like a bramble
+    </string>
+    <string name="about">about</string>
+    <string name="dummy_text">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="lightning_fast_delivery">lightning Fast Delivery</string>
+    <string name="about_dummy">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s,</string>
+    <string name="search_nearby_location">Search Nearby Location</string>
+</resources>
